@@ -49,6 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/amirmohammadkz
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3896766/amirmohammad-kazemeini/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
