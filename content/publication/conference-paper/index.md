@@ -26,7 +26,7 @@ publication_short: In *ICDM 2020*
 abstract: State-of-the-art personality prediction with text datamostly relies on bottom up, automated feature generation as part of  the  deep  learning  process.  More  traditional  models  rely  onhand-crafted,  theory-based  text-feature  categories.  We  propose a novel  deep  learning-based  model  which  integrates  traditional psycholinguistic  features  with  language  model  embeddings  to predict  personality  from  the  Essays  dataset  for  Big-Five  and Kaggle  dataset  for  MBTI.  With  this  approach  we  achieve  state-of-the-art model performance. Additionally, we use interpretable machine learning to visualize and quantify the impact of various language features in the respective personality prediction models. We conclude with a discussion on the potential this work has for computational  modeling  and  psychological  science  alike.
 
 # Summary. An optional shortened abstract.
-summary: a state-of-the-art novel  deep  learning-based  model  which  integrates  traditional psycholinguistic  features  with  language  model  embeddings  to predict  personality  from  the  Essays  dataset  for  Big-Five  and Kaggle  dataset  for  MBTI.
+summary: A state-of-the-art novel  deep  learning-based  model  which  integrates  traditional psycholinguistic  features  with  language  model  embeddings  to predict  personality  from  the  Essays  dataset  for  Big-Five  and Kaggle  dataset  for  MBTI.
 
 tags:
 - Personality detection
