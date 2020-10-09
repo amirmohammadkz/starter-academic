@@ -38,8 +38,6 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: ''
 url_pdf: https://sentic.net/predicting-personality-with-psycholinguistic-and-language-model-features.pdf
 url_code: 'https://github.com/yashsmehta/personality-prediction'
 url_dataset: 'https://github.com/yashsmehta/personality-prediction/tree/master/data'
