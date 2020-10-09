@@ -6,6 +6,7 @@ authors:
 - admin
 - Clemens Stachl
 - Erik Cambria
+- Sauleh Eetemadi
 date: "2020-09-24T00:00:00Z"
 doi: ""
 
@@ -38,7 +39,7 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: ''
 url_pdf: https://sentic.net/predicting-personality-with-psycholinguistic-and-language-model-features.pdf
 url_code: 'https://github.com/yashsmehta/personality-prediction'
 url_dataset: 'https://github.com/yashsmehta/personality-prediction/tree/master/data'
@@ -62,23 +63,4 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-
