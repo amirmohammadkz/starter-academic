@@ -1,7 +1,7 @@
 ---
 title: Writing technical content in Academic
-date: 2019-07-12
-math: true
+date: 2020-09-27
+math: false
 diagram: true
 image:
   placement: 3
