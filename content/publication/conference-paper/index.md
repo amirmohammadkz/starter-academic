@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Word  cloud  visualization  of  the  most  important  psycholinguistic  features  driving  personality  trait  prediction.'
   focal_point: ""
   preview_only: false
 
