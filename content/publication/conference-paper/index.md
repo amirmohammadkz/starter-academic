@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In ICDM 2020 : 20th IEEE International Conference on Data Mining
+publication: In *ICDM 2020 : 20th IEEE International Conference on Data Mining*
 publication_short: In *STC*
 
 abstract: State-of-the-art personality prediction with text datamostly relies on bottom up, automated feature generation as part of  the  deep  learning  process.  More  traditional  models  rely  onhand-crafted,  theory-based  text-feature  categories.  We  propose a novel  deep  learning-based  model  which  integrates  traditional psycholinguistic  features  with  language  model  embeddings  to predict  personality  from  the  Essays  dataset  for  Big-Five  and Kaggle  dataset  for  MBTI.  With  this  approach  we  achieve  state-of-the-art model performance. Additionally, we use interpretable machine learning to visualize and quantify the impact of various language features in the respective personality prediction models. We conclude with a discussion on the potential this work has for computational  modeling  and  psychological  science  alike.
@@ -70,4 +70,15 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
 
