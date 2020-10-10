@@ -25,9 +25,13 @@ Yeah, it may seem weird to hear that from an NLP student, but unfortunately, at 
 
 ### 1. With perfect AI models, hope will not exist anymore
 
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/b3ae473bb7177446b2416b4e73f7d56ffb792763/static/media/hope.gif" title="Photo from [shutterstock](https://www.shutterstock.com/)" >}}
+
 Unfortunately, that is true. Suppose a kid who is trying to be a literature teacher, but his talent is in mathematics. A perfect model will decide that he is expected to be a mathematician rather than a poet or a literature teacher. From a broader perspective, each individual might only have a few options to pursue to build the most productive community. Sadly, our models are not capable of understanding our feelings and senses. They merely can interpret them by using the way we express ourselves in a limited manner. This is not sufficient, nor is it proper for understanding someone’s inner feelings.
 
 ### 2. No one will think outside of the box anymore
+
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/4774499face7ac420ac86348714d6c47cfc94adb/static/media/box.jpg" title="Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/)" >}}
 
 Creativity is a common phenomenon that we realize is much more than just producing some apparently new things by combining the available ones. GAN and DeepFake models are trying to do so, as well as GPT-3 for Natural Language Generation. Suppose a sage who knows everything on the internet. Does a generative model like GPT-3 produce a novel article or even a paragraph that surprises the sage? The answer is no. Because everything it generates is somehow available on the internet. You first may become amazed by reading the Guardian’s “why humans have nothing to fear from AI” article . But the truth is that the model just decides which concepts and words are appropriate to be written by remembering the memorized texts. If you disagree, have a look at this scientific explanation by Yannic Kilcher. Some new methods such as SenticNet, tried to combine human logic into subsymbolic AI, to make models that understand more and can predict better in the way we think. The idea is inspired by this wise saying:
 
