@@ -35,14 +35,11 @@ Unfortunately, that is true. Suppose a kid who is trying to be a literature teac
 
 Creativity is a common phenomenon that we realize is much more than just producing some apparently new things by combining the available ones. GAN and DeepFake models are trying to do so, as well as GPT-3 for Natural Language Generation. Suppose a sage who knows everything on the internet. Does a generative model like GPT-3 produce a novel article or even a paragraph that surprises the sage? The answer is no. Because everything it generates is somehow available on the internet. You first may become amazed by reading the Guardian’s “why humans have nothing to fear from AI” article . But the truth is that the model just decides which concepts and words are appropriate to be written by remembering the memorized texts. If you disagree, have a look at this scientific explanation by Yannic Kilcher. Some new methods such as SenticNet, tried to combine human logic into subsymbolic AI, to make models that understand more and can predict better in the way we think. The idea is inspired by this wise saying:
 
-    “you do not get discoveries in the sciences by taking huge amounts of data, throwing them into a computer and doing statistical analysis of them: that’s not the way you understand things, you have to have theoretical insights.”
-    Noam Chomsky
+**“you do not get discoveries in the sciences by taking huge amounts of data, throwing them into a computer and doing statistical analysis of them: that’s not the way you understand things, you have to have theoretical insights.”**   *Noam Chomsky*
 
 Despite all these efforts, the problem has not been solved yet. You may think that this limitation is not a significant concern. But as we go further, the situation becomes more serious. Our models will become more accurate, and then they will monitor our activities. Imagine the case that you write a pure novel book, completely different from all the previous ones. Models will now evaluate your manuscript to identify where should it deserve to be published. Since your work is unalike from the prior successful publications, it probably will not get accepted as valuable work. Hence, your creativity will be suppressed. All of this is because it does not understand more than what has been learned before. It cannot digest the creativity.
 
-    “We shape our tools and, thereafter, our tools shape us”
-
-    Marshall McLuhan
+**“We shape our tools and, thereafter, our tools shape us”**    *Marshall McLuhan*
     
 ### 3. Freedom in a cage, the myth of evolution
 
