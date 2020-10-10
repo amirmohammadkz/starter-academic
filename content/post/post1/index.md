@@ -18,7 +18,7 @@ By following these steps, I may go outside of the box, because I do not know whe
 
 ## NLP and AI are against morality
 
-{{< figure src="media/psycho-pass.jpg" title="Two Main Characters (Kogami and Mikishima) in Psycho Pass. Photo from [wallpaperaccess](https://wallpaperaccess.com/psycho-pass)" >}}
+{{< figure src="media/https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/psycho-pass.jpg" title="Two Main Characters (Kogami and Mikishima) in Psycho Pass. Photo from [wallpaperaccess](https://wallpaperaccess.com/psycho-pass)" >}}
 
 
 Yeah, it may seem weird to hear that from an NLP student, but unfortunately, at least in some parts, it is true. I know it depends on how I define morality, but I think you may agree with me in the general case. It first came into my mind when I was watching ‘psycho pass’ anime. In the first minutes of it, or by just reading the summary before watching, you will understand that it is about a society that is precisely monitored by AI. Identifying potential criminals, and preventing the possible crimes, predicting the proper job for everyone, etc. I do not want to spoil the serie, and I do not know how it will end because the rest of it is under production. But by just knowing some of these concepts, some questions triggered in my mind. I asked Dirk Hovy, the famous researcher in the field of ethics in AI, about some of them at ACL 2020, and he agreed, and then I understood that these are concerning questions that can seriously affect our future. Let me tell you some of them:
