@@ -1,12 +1,12 @@
 ---
-title: If I was a machine, part 1. The future may not be as beautiful as we think.
+title: 'If I was a machine, part 1: The future may not be as beautiful as we think.'
 subtitle: The dark sides of this trending field, AI.
 date: 2020-09-27
 math: false
 diagram: true
 image:
-  placement: 2
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  placement: 3
+  caption: 'Bicentennial Man. Photo from [BBC](https://www.bbc.co.uk/programmes/b007c14w)'
 ---
 
 Hello, this is the first part of this serie. In this story, I try to question some of the dark sides of AI, which I think are forgotten or neglected.
