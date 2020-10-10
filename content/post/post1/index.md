@@ -31,7 +31,7 @@ Unfortunately, that is true. Suppose a kid who is trying to be a literature teac
 
 ### 2. No one will think outside of the box anymore
 
-{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/4774499face7ac420ac86348714d6c47cfc94adb/static/media/box.jpg" title="Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/)" >}}
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/4774499face7ac420ac86348714d6c47cfc94adb/static/media/box.jpg" title="Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/)" class="alignleft">}}
 
 Creativity is a common phenomenon that we realize is much more than just producing some apparently new things by combining the available ones. GAN and DeepFake models are trying to do so, as well as GPT-3 for Natural Language Generation. Suppose a sage who knows everything on the internet. Does a generative model like GPT-3 produce a novel article or even a paragraph that surprises the sage? The answer is no. Because everything it generates is somehow available on the internet. You first may become amazed by reading the Guardian’s “why humans have nothing to fear from AI” article . But the truth is that the model just decides which concepts and words are appropriate to be written by remembering the memorized texts. If you disagree, have a look at this scientific explanation by Yannic Kilcher. Some new methods such as SenticNet, tried to combine human logic into subsymbolic AI, to make models that understand more and can predict better in the way we think. The idea is inspired by this wise saying:
 
@@ -46,7 +46,7 @@ Despite all these efforts, the problem has not been solved yet. You may think th
     
 ### 3. Freedom in a cage, the myth of evolution
 
-<img src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/cage.png" title="Freedom Cage published November 27, 2012 by Sherif Arafa politicalcartoons.com" style ="float: left;" >
+{{<figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/cage.png" title="Freedom Cage published November 27, 2012 by Sherif Arafa politicalcartoons.com" >}}
 
 
 This is one of the consequences of the previous topic. Let me rephrase the quote above: They shape our tools; thereafter, our tools govern us. That is the fact. Keep in mind that your current wellbeing is for the sake of previous revolutions, people who tried to change the situation to make a better world. When censorship became automatic, by using methods such as Deep Packet Inception, nobody will be free anymore. This is not only the creativity that is suppressed but also the freedom, and everything that endangers the benefits of current government will be sacrificed. Rulers become cruel, and they eliminate everything that threatens their dictatorship. That is not a complex problem because the models magnify their acts, and they only should be concern about reducing False-negative predictions, individuals who are capable of rebellion and labeled as innocent. ‘Recall’ should be high, and anything else does not matter. If we reach this state, the evolution of society will be halted.
