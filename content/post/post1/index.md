@@ -46,9 +46,14 @@ Despite all these efforts, the problem has not been solved yet. You may think th
     
 ### 3. Freedom in a cage, the myth of evolution
 
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/cage.png" title="Freedom Cage published November 27, 2012 by Sherif Arafa politicalcartoons.com" >}}
+
+
 This is one of the consequences of the previous topic. Let me rephrase the quote above: They shape our tools; thereafter, our tools govern us. That is the fact. Keep in mind that your current wellbeing is for the sake of previous revolutions, people who tried to change the situation to make a better world. When censorship became automatic, by using methods such as Deep Packet Inception, nobody will be free anymore. This is not only the creativity that is suppressed but also the freedom, and everything that endangers the benefits of current government will be sacrificed. Rulers become cruel, and they eliminate everything that threatens their dictatorship. That is not a complex problem because the models magnify their acts, and they only should be concern about reducing False-negative predictions, individuals who are capable of rebellion and labeled as innocent. ‘Recall’ should be high, and anything else does not matter. If we reach this state, the evolution of society will be halted.
 
 ### 4. The distance between social classes will be fixed, or gradually widen.
+
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/penam.gif" title="Districts of Panem. Photo from [businessinsider](https://www.businessinsider.com/10-things-you-need-to-know-about-the-hunger-games-2012-3?international=true&r=US&IR=T#the-characters-live-in-districts-4)" >}}
 
 This heading is partially connected with the first one. The problem arises when you are restricted to perform specific tasks based on your background. If we scrutinize this issue, the tasks are chosen based on our ancestors’ previous successful experience. It means, if you were born in a wealthy family, higher-quality jobs are probable to be assigned to you, and if your family is not wealthy, you might not have a chance to improve it. Rich people become richer and poor ones become poorer. This issue can also be extended to other areas such as social classes because all these problems are somehow intertwined. This social class division is demonstrated in The Hunger Games series of novels and movies. This issue encompasses not only individuals but also communities. Each society section will become isolated, and all unnecessary interactions between districts might be eliminated. And a day may come that you will not understand situations and things beyond your own community, and you may not know that they exist.
 
