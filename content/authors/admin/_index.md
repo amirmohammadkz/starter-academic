@@ -78,5 +78,4 @@ user_groups:
 - Visitors
 ---
 
-I started my research journey for my undergrad thesis under the supervision of Professor Sauleh Eetemadi, the former senior NLP researcher at Microsoft. Currently, I am pursuing my Master's under the supervision of Professor Robert E Mercer at Western University. I also have collaborated with Prof. Erik Cambria, Founder of Senticnet and professor at NTU Singapore, and still collaborating with him and his team remotely.
 My main research interests lie in the application of machine learning and data mining techniques to NLP research in contexts such as computational psychology and social science. In particular, I am interested in using AI for personality detection from text.
