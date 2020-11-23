@@ -9,13 +9,21 @@ image:
   caption: 'Photo by [Thought Catalog](https://unsplash.com/@thoughtcatalog?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)'
 ---
 
-Hello, this is the first part of this serie. In this story, I try to question some of the dark sides of AI, which I think are forgotten or neglected.
+### Introduction
 
-### Why should you read this?
+IELTS, which stands for International English Language Testing System, is a standard international English test that assesses English skills in four sections reading, writing, listening, and speaking. Most international institutes and universities put an IELTS minimum requirement for their international applicants, so they become sure that no communication issues happen for non-English speakers after the recruitment process.
 
-This story is not a state-of-the-art paper explanation, nor is it a pure academic article. As a recent graduate research student learning NLP to leverage it in psychology and social science, I will share my thoughts with you. I believe that we are inherently creative, and the structure of learning, and the way we restrict ourselves in the systems, will deteriorate it. Inevitably, I should follow a similar path as other students did, and I think my creative aspect will be diminished because the whole process is a spoiler path. We are bombarded with pure knowledge without finding out what the problem is and how we can invent a solution. Limited in the fixed study routines, trying to read all the requirements of a problem, and then we are expected to design and create after it. But how can we do it? This process, each step of this trail, contains a host of opportunities for creating. However, we are obligated to study all the requirements first because the chance of inventing something that is not made before and performs better is not high. It might be right, but we are improving this chance in the cost of sacrificing creativity, the essential tool for producing novelty. So, I decided not to follow the typical path and make my way a bit slower. I try to do this by guessing the next step each time I learn a new subject, questioning the most prominent drawbacks of current methods before jumping into state-of-the-art discussions from the most famous researchers.
-By following these steps, I may go outside of the box, because I do not know where the box is now, that is the key. When I am aware of the box, outside can be interpreted as a new box, “the box of outside”. Maybe the first chapters are a bit rusty and unstructured, but I try to improve it bit by bit. So, if you agree with me, follow my journey.
+Last year was so tough for me. Struggling with the undergraduate thesis, working on a research paper, communicating with professors and universities for my graduate program, and taking required tests were intensely overwhelming. I took IELTS because it was compulsory for my graduate study, and I succeeded in achieving the overall band score of 7.5. The impressive part of my result was the reading section, which I hopefully got a full mark score in that. IELTS Reading consists of 3 sections, 40 questions, 60 minutes
 
+* Each section contains one long text.
+
+* Texts are authentic and are taken from books, journals, magazines and newspapers. They have been written for a non-specialist audience and are on academic topics of general interest.
+
+* Texts are appropriate to, and accessible to, candidates entering undergraduate or postgraduate courses or seeking professional registration.
+
+* Texts range from the descriptive and factual to the discursive and analytical. Texts may contain non-verbal materials such as diagrams, graphs or illustrations. If texts contain technical terms, then a simple glossary is provided.
+
+* There are three texts and 40 questions. [[reference]](https://www.examenglish.com/IELTS/IELTS_Academic_reading.html)
 ## NLP and AI are against morality
 
 {{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/psycho-pass.jpg" title="Two Main Characters (Kogami and Mikishima) in Psycho Pass. Photo from [wallpaperaccess](https://wallpaperaccess.com/psycho-pass)" >}}
