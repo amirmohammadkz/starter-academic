@@ -24,14 +24,37 @@ Last year was so tough for me. Struggling with the undergraduate thesis, working
 * Texts range from the descriptive and factual to the discursive and analytical. Texts may contain non-verbal materials such as diagrams, graphs or illustrations. If texts contain technical terms, then a simple glossary is provided.
 
 * There are three texts and 40 questions. [[reference]](https://www.examenglish.com/IELTS/IELTS_Academic_reading.html)
-## NLP and AI are against morality
+
+I will explain some tips that I used in my self-study to achieve this score in the current post.
+
+The critical factor that makes this post unique is the fast achieving self-study approach that I will explain. For my undergraduate thesis, which resulted in an [ACL2020 WiNLP](http://www.winlp.org/winlp-2020-workshop) paper, I used ML approaches to gain the best result to detect individuals’ personality traits based on their essays. You can read the final version of my paper [here](http://www.winlp.org/wp-content/uploads/2020/final_papers/40_Paper.pdf). Since I was overwhelmed with several tasks , I did not find much time to focus on my IELTS study. So, I decided to leverage my ML skills to build a focused study plan to improve my IELTS result. Hopefully, it worked, and here, you can read my self-designed method.
+
+This method is inspired by the Deep Learning models training process and consists of four parts: weight initialization, forward pass, backpropagation and error analysis, and optimization.
+
+### The Start Line — Weight Initialization
 
 {{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/psycho-pass.jpg" title="Two Main Characters (Kogami and Mikishima) in Psycho Pass. Photo from [wallpaperaccess](https://wallpaperaccess.com/psycho-pass)" >}}
 
 
-Yeah, it may seem weird to hear that from an NLP student, but unfortunately, at least in some parts, it is true. I know it depends on how I define morality, but I think you may agree with me in the general case. It first came into my mind when I was watching [‘psycho pass’](https://en.wikipedia.org/wiki/Psycho-Pass) anime. In the first minutes of it, or by just reading the summary before watching, you will understand that it is about a society that is precisely monitored by AI. Identifying potential criminals, and preventing the possible crimes, predicting the proper job for everyone, etc. I do not want to spoil the serie, and I do not know how it will end because the rest of it is under production. But by just knowing some of these concepts, some questions triggered in my mind. I asked [Dirk Hovy](https://dirkhovy.com/) , the famous researcher in the field of ethics in AI, about some of them at ACL 2020, and he agreed, and then I understood that these are concerning questions that can seriously affect our future. Let me tell you some of them:
+When you want to learn a new subject, you should have a brief understanding of what you are going to do and how to start. That is the exact process that is used for training deep models too.
 
-### 1. With perfect AI models, hope will not exist anymore
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/psycho-pass.jpg" title="Two Main Characters (Kogami and Mikishima) in Psycho Pass. Photo from [wallpaperaccess](https://wallpaperaccess.com/psycho-pass)" >}}
+
+First, pick the dataset you want to learn. There are numerous test packs for IELTS, but none are as genuine as the original [Cambridge IELTS](https://ieltspracticeonline.com/download-all-cambridge-ielts-books-pdfaudio-1-14/) test books. As far as I know, 15 versions have been published, and each year, a newer version comes out based on the recent actual tests.
+
+The second essential criterion before the beginning is how to start it? How can you commence something that you do not have any idea about it? That is easy! Just use what you have known before from your prior successful test experience and try to reuse it. For example, I remembered that I used to read the questions first and highlight the keywords before jumping into the text for my undergraduate university entrance exam. If you think that you are totally lost, you can get some help from these free resources, but keep in mind not to spend much on them at this phase:
+
+* [New insight to IELTS](https://www.cambridge.org/us/cambridgeenglish/catalog/cambridge-english-exams-ielts/new-insight-ielts)
+
+* [IELTS Liz](https://ieltsliz.com/ielts-reading-lessons-information-and-tips/)
+
+* [IELTS Simon](https://ielts-simon.com/ielts-help-and-english-pr/ielts-reading/)
+
+* [E2 IELTS](https://www.youtube.com/playlist?list=PLdawRnR9ilZDh4mWAjOm8MsqaJt03-YMR)
+
+A similar method is also used for Deep Learning. Weights of the model are sometimes randomly assigned, and sometimes, which usually result in better accuracy, they are obtained based on the pre-trained models on other tasks. That is the exact thing you will do when you remember your previous experience to use it for this new test.
+
+### Take a Sample Test — Forward Pass
 
 {{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/b3ae473bb7177446b2416b4e73f7d56ffb792763/static/media/hope.gif" title="Photo from [shutterstock](https://www.shutterstock.com/)" >}}
 
