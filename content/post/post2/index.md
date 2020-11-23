@@ -1,12 +1,12 @@
 ---
-title: 'If I was a machine, part 1: The future may not be as beautiful as we think.'
-subtitle: The dark sides of this trending field, AI.
-date: 2020-09-27
+title: 'IELTS Reading Band 9 Tips — An End to End Self-Study Guide'
+subtitle: How I used Machine Learning techniques to improve my reading skill.
+date: 2020-09-12
 math: false
 diagram: true
 image:
   placement: 3
-  caption: 'Bicentennial Man. Photo from [BBC](https://www.bbc.co.uk/programmes/b007c14w)'
+  caption: 'Photo by [Thought Catalog](https://unsplash.com/@thoughtcatalog?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)'
 ---
 
 Hello, this is the first part of this serie. In this story, I try to question some of the dark sides of AI, which I think are forgotten or neglected.
