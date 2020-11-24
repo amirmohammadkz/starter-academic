@@ -38,7 +38,7 @@ This method is inspired by the Deep Learning models training process and consist
 
 When you want to learn a new subject, you should have a brief understanding of what you are going to do and how to start. That is the exact process that is used for training deep models too.
 
-{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/ielts15.jpg" title="Two Main Characters (Kogami and Mikishima) in Psycho Pass. Photo from [wallpaperaccess](https://wallpaperaccess.com/psycho-pass)" >}}
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/ielts15.jpg" title="Photo from cambridge.org" >}}
 
 First, pick the dataset you want to learn. There are numerous test packs for IELTS, but none are as genuine as the original [Cambridge IELTS](https://ieltspracticeonline.com/download-all-cambridge-ielts-books-pdfaudio-1-14/) test books. As far as I know, 15 versions have been published, and each year, a newer version comes out based on the recent actual tests.
 
@@ -56,11 +56,11 @@ A similar method is also used for Deep Learning. Weights of the model are someti
 
 ### Take a Sample Test — Forward Pass
 
-{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/exam.jpeg" title="Photo from [shutterstock](https://www.shutterstock.com/)" >}}
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/exam.jpeg" title="Photo by [Jessica Lewis](https://unsplash.com/@thepaintedsquare?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)" >}}
 
 Ok, why not take a sample test to see where you are standing? Several questions may pop into your mind when you want to start. I try to guess by answering some of mine when I started my first test. The critical factor is to extract as much information as you can from this test. So, I developed my unique method in this regard.
 
-{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/clock.gif" title="Photo from [shutterstock](https://www.shutterstock.com/)" >}}
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/clock.gif" title="photo from [online-stopwatch](https://www.online-stopwatch.com/eggtimer-countdown/)" >}}
 
 Always keep the time you are devoting for each section. First, think that you are taking a real exam, so you have just an hour and not a minute more. It is better to track the time you engage with each passage. It might be a bit less than 20 minutes for the first two articles and the remaining for the last one.
 
@@ -69,7 +69,7 @@ I suppose that you are done with your 1-hour challenge. Tired? But you should no
 This part aims to see what your faults are and where to focus and find the priorities because It’s not efficient to learn the parts that you are already expert at them! This method is also used to train a deep model. The data is fed to the model to determine what we got first and realize what should be done next.
 
 ### Analyze your test — Back Propagation
-{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/magnifier.jpeg" title="Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/)" >}}
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/magnifier.jpeg" title="Photo by [Marten Newhall](https://unsplash.com/@laughayette?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/)" >}}
 
 Up to now, you have taken your first test, and you should now focus on interpreting it. Use the answer key to find out your incorrect answers, find their cause, and try to convince yourself that the correct answer is not what you thought. After these analysis phases for each question, you can use [this](https://www.readingielts.com/) website to see the explained answer.
 
@@ -77,17 +77,17 @@ When you finished, give yourself two scores based on the limited time and anothe
 
 Now, draw two tables. The tables might varies according to the way that you are convenient with. I explain mine. One is for each test which tells you how many mistake answers you had for each passage, and the second one is question type based table. It should give you a complete overview of how you performed based on each question type. Try to include both limited and unlimited scores in them, and after that, you are done with this phase!    
 
-{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/res1.png" title="Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/)" >}}
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/res1.png" title="Passage based analysis table example" >}}
 
-{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/res2.png" title="Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/)" >}}
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/res2.png" title="Question type based analysis table example" >}}
 
-{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/back_propagation.png" title="Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/)" >}}
+{{< figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/back_propagation.png" title="Photo from [guru99](https://www.guru99.com/backpropogation-neural-network.html)" >}}
 
 A similar method that is used in training deep models is called backpropagation. After feeding the data into the model, it should find the errors in each step to know which weight in which direction must be optimized. That is the exact trick we are using in IELTS, seeing the problem (question type and passage), and how much they should be optimized to reach your goal.
 
 ### Boost your skills — Optimization
 
-{{<figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/analyze.jpeg" title="Freedom Cage published November 27, 2012 by Sherif Arafa politicalcartoons.com" >}}
+{{<figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/analyze.jpeg" title="Photo by [Frank Busch](https://unsplash.com/@frankbusch?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)" >}}
 
 
 This is the final step. Now you are totally aware of what is lacking and what is your strengths. Prioritize your “to be improved” components based on the distance between what you achieved and what you expected. If you can almost receive a full mark in a test with a reasonable extra time and lose much in the standard time frame, you should focus on speed. If you are slow in a specific question type, the more scrutinized decision may be focusing on some training speed tests on that particular question type and revise your answering method for that part. Generate some questions that you should look for. Be goal-oriented and avoid roaming around aimlessly.
@@ -96,7 +96,7 @@ Now you should look for answers. Hopefully, you are provided with a host of opti
 
 Regarding the relevance of this stage to optimization, have a look at the following image:
 
-{{<figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/curve.jpeg" title="Freedom Cage published November 27, 2012 by Sherif Arafa politicalcartoons.com" >}}
+{{<figure src="https://raw.githubusercontent.com/amirmohammadkz/starter-academic/master/static/media/curve.jpeg" title="Photo from: A. Amini et al. [“Spatial Uncertainty Sampling for End-to-End Control”](https://arxiv.org/pdf/1805.04829.pdf). NeurIPS Bayesian Deep Learning 2018" >}}
 
 The goal is to reduce the error (the difference between your current score and optimum score), and the task is finding how, how much, and on which direction you should optimize. You can assume each question type as an independent dimension, and the method you choose is the direction you want to go to. The prioritization step I explained before is that focusing on some dimensions and optimizing them will not affect your result much, so focus on the ones with more space for improvements and do not waste your resources ( time and energy)!
 
