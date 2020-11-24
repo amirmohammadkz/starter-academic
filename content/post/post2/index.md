@@ -102,4 +102,4 @@ The goal is to reduce the error (the difference between your current score and o
 
 These steps can be divided into more personalized stages, but I avoided telling them to keep it general. Personally, I tried to leverage some deeper connections based on my NLP experience, such as Masked Language Models, to get a better insight, and I am sure that you can do so. Build your path and break a leg!
 
-If you have more sources, recommendations, and comments, I appreciate if you write it in comments.
+If you have more sources, recommendations, and comments, I appreciate if you reach out to me.
