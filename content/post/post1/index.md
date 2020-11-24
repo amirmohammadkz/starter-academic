@@ -58,6 +58,6 @@ This heading is partially connected with the first one. The problem arises when 
 
 This post may be somehow pessimistic, somehow far from reality, but anyway, these are concerns that I think this issue deserves more attention. Some of them may be wrong, but I believe devoting some time to think about our field’s probable destination, even if it might be wrong, is necessary.
 
-If you disagree with me or have recommendations and comments, I appreciate if you write it in the comments.
+If you disagree with me or have recommendations and comments, I appreciate if you reach out to me.
 
 ### Did you find this page helpful? Consider sharing it 🙌
