@@ -36,7 +36,7 @@ tags:
 - Explainable AI
 - Computational psychology
 - Natural language understanding
-featured: true
+featured: false
 
 links:
 url_pdf: https://arxiv.org/pdf/2101.02346.pdf
