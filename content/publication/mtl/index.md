@@ -1,5 +1,5 @@
 ---
-title: "Multitask Learning forEmotion and Personality Detection"
+title: "Multitask Learning for Emotion and Personality Detection"
 authors:
 - Yang Li
 - Amirmohammad Kazameini
