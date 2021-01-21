@@ -1,13 +1,11 @@
 ---
 title: "Bottom-up and top-down: Predicting personality with psycholinguistic and language model features"
 authors:
+- Yang Li
+- Amirmohammad Kazameini
 - Yash Mehta
-- Samin Fatehi
-- admin
-- Clemens Stachl
 - Erik Cambria
-- Sauleh Eetemadi
-date: "2020-09-24T00:00:00Z"
+date: "2021-01-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,16 +18,19 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *[20th IEEE International Conference on Data Mining](http://icdm2020.bigke.org/)*
-publication_short: In *ICDM 2020*
+publication: In *[arXiv preprint](https://arxiv.org/)*
+publication_short: In *arXiv preprint*
 
-abstract: State-of-the-art personality prediction with text datamostly relies on bottom up, automated feature generation as part of  the  deep  learning  process.  More  traditional  models  rely  onhand-crafted,  theory-based  text-feature  categories.  We  propose a novel  deep  learning-based  model  which  integrates  traditional psycholinguistic  features  with  language  model  embeddings  to predict  personality  from  the  Essays  dataset  for  Big-Five  and Kaggle  dataset  for  MBTI.  With  this  approach  we  achieve  state-of-the-art model performance. Additionally, we use interpretable machine learning to visualize and quantify the impact of various language features in the respective personality prediction models. We conclude with a discussion on the potential this work has for computational  modeling  and  psychological  science  alike.
+abstract: In recent years, deep learning-based automated personality trait detection has received a lot of attention, especially now, due to the massive digital footprints of an individual. Moreover, many researchers have demonstrated that there is a strong link between personality traits and emotions. In this paper, we build on the known correlation between personality traits and emotional behaviors, and propose a novel multitask learning framework, SoGMTL that simultaneously predicts both of them. We also empirically evaluate and discuss different information-sharing mechanisms between the two tasks. To ensure the high quality of the learning process, we adopt a MAML-like framework for model optimization. Our more computationally efficient CNN-based multitask model achieves the state-of-the-art performance across multiple famous personality and emotion datasets, even outperforming Language Model based models.
+
 
 # Summary. An optional shortened abstract.
-summary: A state-of-the-art novel  deep  learning-based  model  which  integrates  traditional psycholinguistic  features  with  language  model  embeddings  to predict  personality  from  the  Essays  dataset  for  Big-Five  and Kaggle  dataset  for  MBTI.
+summary: Our more computationally efficient CNN-based multitask model achieves the state-of-the-art performance across multiple famous personality and emotion datasets, even outperforming Language Model based models.
 
 tags:
 - Personality detection
+- Emotion Detection
+- Multi Task Learning
 - Deep learning
 - Language model
 - Explainable AI
@@ -38,11 +39,11 @@ tags:
 featured: true
 
 links:
-url_pdf: https://sentic.net/predicting-personality-with-psycholinguistic-and-language-model-features.pdf
-url_code: 'https://github.com/yashsmehta/personality-prediction'
-url_dataset: 'https://github.com/yashsmehta/personality-prediction/tree/master/data'
+url_pdf: https://arxiv.org/pdf/2101.02346.pdf
+url_code: 'https://github.com/npuliyang/Personality-Detection-MTL'
+url_dataset: ''
 url_poster: ''
-url_project: 'https://osf.io/rg5tf/https://osf.io/rg5tf/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -50,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Word  cloud  visualization  of  the  most  important  psycholinguistic  features  driving  personality  trait  prediction.'
+  caption: 'The structure of the proposed framework.'
   focal_point: ""
   preview_only: false
 
