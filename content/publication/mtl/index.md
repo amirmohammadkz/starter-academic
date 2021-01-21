@@ -1,5 +1,5 @@
 ---
-title: "Bottom-up and top-down: Predicting personality with psycholinguistic and language model features"
+title: "Multitask Learning forEmotion and Personality Detection"
 authors:
 - Yang Li
 - Amirmohammad Kazameini
