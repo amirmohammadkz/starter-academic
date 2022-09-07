@@ -23,3 +23,4 @@ jobs:
         TARGET_REPO: amirmohammadkz/amirmohammadkz.github.io
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
         CNAME: www.amirmohammadkz.github.io
+        GO_VERSION: 1.17
