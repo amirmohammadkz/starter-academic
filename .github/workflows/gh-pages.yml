@@ -35,8 +35,7 @@ jobs:
         # below accordingly.
         if: ${{ github.ref == 'refs/heads/master' }}
         with:
-          github_token: ${{ secrets.cmd }}
-          personal_token : ${{ secrets.cmd }}
+          personal_token : ${{ secrets.csdfsdfdsmd }}
           publish_dir: ./public
           external_repository: amirmohammadkz/amirmohammadkz.github.io
           publish_branch: your-branch  # default: gh-pages
