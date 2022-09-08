@@ -35,7 +35,7 @@ tags:
 - Explainable AI
 - Computational psychology
 - Natural language understanding
-featured: true
+featured: false
 
 links:
 url_pdf: https://sentic.net/predicting-personality-with-psycholinguistic-and-language-model-features.pdf
