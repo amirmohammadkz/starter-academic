@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Artificial Intelligence Student
+role: Artificial Intelligence Intern
 
 # Organizations/Affiliations
 organizations:
-- name: Western University
-  url: "https://www.uwo.ca/"
+- name: Nanyang Technological University
+  url: "https://www.ntu.edu.sg/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Natural Language Processing research student who is passionate about psychology and social science.
+bio: I am a Natural Language Processing intern who is passionate about psychology and social science.
 
 interests:
 - Computational Psychology
@@ -76,6 +76,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I started research in IUST Data Mining Lab under supervision of Professor Hossein Rahmani. Then, I switched to IUST NLP Lab for my undergrad thesis under the supervision of Professor Sauleh Eetemadi, the former senior NLP researcher at Microsoft. Currently, I am pursuing my Master's under the supervision of Professor Robert E Mercer at Western University. I also have collaborated with Professor Erik Cambria, Founder of Senticnet and professor at NTU Singapore, and still collaborating with him and his team remotely.
+I started research in IUST Data Mining Lab under supervision of Professor Hossein Rahmani. Then, I switched to IUST NLP Lab for my undergrad thesis under the supervision of Professor Sauleh Eetemadi, the former senior NLP researcher at Microsoft. I finished my M.Sc. AI at Western University under supervision of Professor Robert E. Mercer at Western University. In the meanwhile, I had collaborations with Professor Erik Cambria and was an intern at Vector Institute under supervision of Jackie Zurborg and CAMH afterwards under supervision of Dr. Abhishek Pratab. Currently, I am persuing an internship at Nanyang Technological University under supervision of Professor Luu Anh Tuan and Michal Kosinski from Stanford. 
 
 My main research interests lie in the application of machine learning and data mining techniques to NLP research in contexts such as computational psychology and social science. In particular, I am interested in using AI for personality detection from text.
