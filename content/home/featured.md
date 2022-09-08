@@ -61,7 +61,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = "{{ $image := $image.Fit "600x400" }}"
+ css_style = ""
  
  # CSS class.
  css_class = ""
