@@ -34,7 +34,7 @@ tags:
 - Explainable AI
 - Computational psychology
 - Natural language understanding
-featured: true
+featured: false
 
 links:
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9679950
