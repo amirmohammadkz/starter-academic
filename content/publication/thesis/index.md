@@ -34,7 +34,7 @@ tags:
 - Computational psychology
 - Natural language understanding
 - Sleep health
-featured: true
+featured: false
 
 links:
 url_pdf: https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11253&context=etd

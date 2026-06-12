@@ -33,7 +33,7 @@ tags:
 - Language model
 - Computational psychology
 - Natural language understanding
-featured: true
+featured: false
 
 links:
 url_pdf: http://www.winlp.org/wp-content/uploads/2020/final_papers/40_Paper.pdf

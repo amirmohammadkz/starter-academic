@@ -4,3 +4,7 @@
 # Hugo
 /resources/
 public/
+
+# Local build tooling (not part of the site)
+hugo_ext/
+hugo_ext.zip
