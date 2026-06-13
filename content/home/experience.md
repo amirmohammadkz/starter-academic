@@ -26,8 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   * Lead AI product work in scientific R&D, coordinating Sanofi Digital, AI development, clinical scientists, and external partners.
-  * Technical lead for Talk2QSP, a multi-agent system for QSP model analysis, with a manuscript under review at ICLR GenBio 2026.
-  * Established and lead a 3-year Harvard–Sanofi partnership on LLM-based GenAI and predictive models for R&D.
+  * Technical lead for Talk2QSP, a multi-agent system for QSP model analysis.
   * Serve as Technical Advisor within Digital R&D, assessing AI vendors, SaaS, and services for adoption decisions.
   """
 
